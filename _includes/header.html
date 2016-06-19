@@ -2,9 +2,14 @@
         <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
             <div class="mdl-layout__header-row">
                 <!-- заголовок -->
-                <button id="demo-menu-lower-right" class="mdl-button mdl-js-button mdl-button--icon">
+                {% if page.url %}
+                
+                <button class="mdl-button mdl-js-button mdl-button--icon">
                   <i class="material-icons">arrow_back</i>
                 </button>
+
+                {% endif %}">
+
                 <h3>{{ site.title }}</h3>
                 
             </div>
