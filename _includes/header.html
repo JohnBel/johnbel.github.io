@@ -2,7 +2,7 @@
         <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
             <div class="mdl-layout__header-row">
                 <!-- заголовок -->
-                {% if page.url contains "index" %}
+                {% if page.url %}
                 <p>Url: {{page.url }}</p>
                 <button class="mdl-button mdl-js-button mdl-button--icon"
                 onclick="window.location.href='/'">
