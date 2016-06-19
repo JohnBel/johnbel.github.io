@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Аферисты Avito
+title: Тестовый сайт
 email: admin@aferisty-avito.tk
 description: Черный список аферистов Avito
-baseurl: "" 
+baseurl: "johnbel.github.io" 
 url: "http://johnbel.github.io" 
 
 compress_html:

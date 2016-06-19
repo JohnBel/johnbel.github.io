@@ -1,0 +1,8 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.mdl-card {
+    width: 100%;
+    margin-bottom: 6px;
+}
