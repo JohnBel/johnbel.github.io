@@ -11,6 +11,8 @@ email: admin@aferisty-avito.tk
 description: Черный список аферистов Avito
 baseurl: "johnbel.github.io" 
 url: "http://johnbel.github.io" 
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 compress_html:
   clippings: all
