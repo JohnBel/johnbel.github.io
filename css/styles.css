@@ -11,3 +11,13 @@ h3 a {
     text-decoration: none;
     color: white;
 }
+
+.post-title
+{
+  font-size: 16pt;
+}
+
+.post-meta
+{
+  font-size: 10pt;
+}
