@@ -1,30 +1,20 @@
-<main class="mdl-layout__content">
-    <div class="mdl-grid">
-        <div class="mdl-cell mdl-cell--2-col"></div>
-        <div class="mdl-cell mdl-cell--8-col">
 
-            {% for post in paginator.posts %}
-            <div class="mdl-card mdl-shadow--2dp">
-                <div class="mdl-card__title">
-                    <a href="{{ post.url }}">
-                        <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-                    </a>
-                </div>
-                <div class="mdl-card__supporting-text">
-                    {{ post.excerpt }}
-                </div>
-                <div class="mdl-card__actions mdl-card--border">
-                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="#">
-          Подробнее
+{% for post in paginator.posts %}
+<div class="mdl-card mdl-shadow--2dp">
+    <div class="mdl-card__title">
+        <a href="{{ post.url }}">
+            <h2 class="mdl-card__title-text">{{ post.title }}</h2>
         </a>
-                </div>
-            </div>
-
-            {% endfor %}
-
-            {% include paging.html %}
-        </div>
-            <!-- Pagination links -->
-
     </div>
-</main>
+    <div class="mdl-card__supporting-text">
+        {{ post.excerpt }}
+    </div>
+    <div class="mdl-card__actions mdl-card--border">
+        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url }}">Подробнее</a>
+    </div>
+</div>
+<!-- Pagination links -->
+{% endfor %} {% include paging.html %}
+
+
+ 
