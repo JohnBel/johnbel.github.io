@@ -1,0 +1,26 @@
+---
+layout: post
+title: "С новым 2014 годом!"
+date:  2013-12-31 05:37:12 +0300
+categories: "Новости Android"
+category: "Новости Android"
+author: "Ivan Belchikov"
+id: "670"
+alias: "s-novym-2014-godom"
+excerpt: "Сайт <em>Новости Android</em> поздравляет всех своих посетителей с новым 2014 годом. В уходящем 2013 году продолжился рост популярности операционной системы Android. Доля рынка мобильных устройств с системой от компании Google составила 80 процентов. Система стала распространяться не только среди смартфонов и планшетов, но и в телевизионных приставках, игровых консолях и даже в часах и очках."
+image: /oldImages/images/images/santa-android.png
+---
+<img  src="/oldImages/images/images/santa-android.png" alt="Android Клаус" />
+
+Сайт "<em>Новости Android</em>" поздравляет всех своих посетителей с новым 2014 годом. В уходящем 2013 году продолжился рост популярности операционной системы Android. Доля рынка мобильных устройств с системой от компании Google составила 80 процентов. Система стала распространяться не только среди смартфонов и планшетов, но и в телевизионных приставках, игровых консолях и даже в часах и очках.
+
+
+Удивили в этом году и производители. Компания Samsung закрепила своё превосходство на рынке мобильных устройств, выпустив сначала самый популярный смартфон <a href="index.php?option=com_content&amp;view=article&amp;id=396&amp;catid=8&amp;Itemid=102">Galaxy S4</a>, потом <a href="index.php?option=com_content&amp;view=article&amp;id=581&amp;catid=8&amp;Itemid=102">Galaxy Note 3</a> и ближе к концу года первый в мире телефон с гибким экраном <a href="index.php?option=com_content&amp;view=article&amp;id=590&amp;catid=8&amp;Itemid=102">Galaxy Round</a>. Компания LG так же обновила модельный ряд смартфонов, выпустив <a href="index.php?option=com_content&amp;view=article&amp;id=508&amp;catid=8&amp;Itemid=102">LG G2</a> и <a href="index.php?option=com_content&amp;view=article&amp;id=603&amp;catid=8&amp;Itemid=102">LG G Flex с гибким экраном</a>. После долгих ожиданий компания Motorola (уже в составе компании Google) выпустила смартфон <a href="index.php?option=com_content&amp;view=article&amp;id=500&amp;catid=8&amp;Itemid=102">Moto X</a> с революционной бесконтактный системой голосового управления.
+
+Следующий,  2014, год готовит не мало сюрпризов. В новом году начнутся массовые продажи супер-очков <a href="index.php?option=com_content&amp;view=article&amp;id=371&amp;catid=8&amp;Itemid=102">Google Glass</a>, выйдет новая версия системы Android 5.0 (с новой виртуальной машиной <a href="index.php?option=com_content&amp;view=article&amp;id=668&amp;catid=9&amp;Itemid=103">ART</a>). Продолжатся разработка <a href="index.php?option=com_content&amp;view=article&amp;id=570&amp;catid=8&amp;Itemid=102">64-битной</a> версии системы. Все производители устройств обновят модельные ряды. Топовые смартфоны 2014 года будут оснащены четырёх или восьми ядерными процессорами с поддержкой 64-битных команд, 3 ГБ оперативной памяти и сверхчеткими гибкими экранами с разрешениями превышающими FullHD (1080p).
+
+Спасибо, за посещение сайта. В следующем году нас ждёт много очень интересных новостей.  Оставайтесь с нами.  
+
+<a href="http://novosti-android.ru/"><em>Новости Android</em></a>
+
+ 

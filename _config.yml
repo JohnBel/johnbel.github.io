@@ -3,7 +3,7 @@ email: admin@novosti-android.ru
 description: Новости мира Android
 baseurl: "/" 
 url: "http://johnbel.github.io/" 
-paginate: 5
+paginate: 25
 paginate_path: "/blog/page:num/"
 
 permalink: /:year/:month/:day/:title.html
