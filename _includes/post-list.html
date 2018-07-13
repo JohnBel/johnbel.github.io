@@ -5,7 +5,9 @@
         <a href="{{ post.url }}">
             <h2 class="mdl-card__title-text">{{ post.title }}</h2>
         </a>
-        <p class="mdl-card__subtitle-text post-date">{{ post.date | date: "%-d.%m.%Y" }}</p>
+        <!--
+		<p class="mdl-card__subtitle-text post-date">{{ post.date | date: "%-d.%m.%Y" }}</p>
+		-->
     </div>
     <div class="mdl-card__supporting-text">
         {% if post.image %}
