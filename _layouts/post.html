@@ -9,14 +9,11 @@ layout: default
                 <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
             </header>
             <div class="mdl-card__menu">
-              {% include share-buttons.html %}
             </div>
         </div>
         <div class="mdl-card__supporting-text post-content" itemprop="articleBody">
             {{ content }}
         </div>
         </article>
-
-        {% include comments.html %}
 </div>
 
