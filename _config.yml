@@ -20,6 +20,9 @@ compress_html:
   profile: false
   #startings: [html, head, body]
 
+  gems:
+  - jekyll-feed
+
 
 
 # Build settings

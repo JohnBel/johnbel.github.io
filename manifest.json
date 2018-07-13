@@ -1,6 +1,6 @@
 {
-  "name": "Новости Android",
-  "short_name": "Новости Android",
+  "name": "JohnBel",
+  "short_name": "JohnBel",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#b3d4fc",
