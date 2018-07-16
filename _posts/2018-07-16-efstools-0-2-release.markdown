@@ -12,5 +12,5 @@ image: /images/download.png
 ---
 <img src="/images/download.png" />
 Новая тестовая версия EFSTools 0.2. <br />
-Исправлена запись файлов <br />
+Исправлена запись файлов в EFS <br />
 <a href="https://github.com/JohnBel/EfsTools/archive/0.2.zip">Скачать</a>
