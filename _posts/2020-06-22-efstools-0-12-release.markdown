@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EFSTools 0.11"
-date:  2020-03-12 10:17:12` +0300
+title: "EFSTools 0.12"
+date:  2020-06-22 15:20:12` +0300
 categories: "EFSTools"
 category: "EFSTools"
 author: "JohnBel"
