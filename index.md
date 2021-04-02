@@ -22,7 +22,7 @@ EfsTools - консольная программа для доступа к фа
 
 ## Релизы
 
-### EFSTools 0.13
+### [EFSTools 0.13](https://github.com/JohnBel/EfsTools/archive/0.13.zip)
 
 * Импортированы из QXDM классы конфигурации (команды getModemConfig и setModemConfig)
 * Реализовано автоматическое определение COM-порта в Linux и OSX
