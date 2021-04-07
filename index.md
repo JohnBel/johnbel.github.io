@@ -24,7 +24,7 @@ EfsTools - консольная программа для доступа к фа
 
 ### [EFSTools 0.14](https://github.com/JohnBel/EfsTools/archive/0.14.zip)
 
-* Исправлена ошибка BadCommand на современных утройствах
+* Исправлена ошибка BadCommand на современных устройствах
 * Добавлена команда запуска WebDAV сервера
 
 [Скачать](https://github.com/JohnBel/EfsTools/archive/0.14.zip)
